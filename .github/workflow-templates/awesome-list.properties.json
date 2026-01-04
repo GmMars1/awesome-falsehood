@@ -1,0 +1,8 @@
+{
+  "name": "Awesome List Workflow",
+  "description": "A basic workflow for awesome lists that runs linting on push and pull requests",
+  "iconName": "check-circle",
+  "categories": [
+    "Automation"
+  ]
+}
